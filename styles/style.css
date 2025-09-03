@@ -1,0 +1,36 @@
+h3{
+    text-align: center;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p{
+    background-color: rgb(8, 147, 211);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px rgb(10, 209, 199);
+    color: white;
+}
+
+ul{
+    margin-left: 20px;
+    font-size: large;
+    background-color: aquamarine;
+    border: 2px solid gold;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px gold;
+    width: 80px;
+
+}
+
+.link{
+   margin-left: 20px;
+   color: rgb(105, 8, 201);
+   border: 2px solid tomato;
+   width: 60px;
+   box-shadow:10px 20px 100px;
+   
+
+
+}
